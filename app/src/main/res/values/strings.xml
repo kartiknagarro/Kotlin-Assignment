@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDos</string>
+    <string name="no_internet">Internet not connected</string>
+    <string name="technical_error">Sorry, We are facing some technical issue.</string>
+    <string name="timeout_error">Looks like the server is taking to long to respond, please try again in sometime
+    </string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="no_more_data">No more data available</string>
+    <string name="pull_to_refresh">Swipe down to reload page</string>
+    <string name="taskDone">Task is completed</string>
+    <string name="taskNotDone">Task is not completed</string>
+</resources>

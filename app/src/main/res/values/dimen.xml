@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="errorTextSize">18sp</dimen>
+    <dimen name="cardBorder">3dp</dimen>
+    <dimen name="cardElevation">3dp</dimen>
+    <dimen name="_5dp">5dp</dimen>
+    <dimen name="titleTextSize">16sp</dimen>
+    <dimen name="textSize">14sp</dimen>
+</resources>

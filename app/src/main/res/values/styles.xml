@@ -1,0 +1,23 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="errorStyle">
+        <item name="android:textSize">@dimen/errorTextSize</item>
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+    <style name="listItemHeadText">
+        <item name="android:textSize">@dimen/titleTextSize</item>
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+    <style name="listItemText">
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/textGrey</item>
+    </style>
+</resources>
